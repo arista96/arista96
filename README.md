@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... HTML
 - 💞️ I’m looking to collaborate on ... i don't know yet
 - 📫 How to reach me ... here 😊
-- ☕ This is a test ... since 10/25/2022
+- ☕ This is a test ... since 01/08/24
 
 <!---
 arista96/arista96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
